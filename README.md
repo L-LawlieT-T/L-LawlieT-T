@@ -22,6 +22,8 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-f34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -30,8 +32,9 @@
 ![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
+![RUBY](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-![Profile View Count](https://komarev.com/ghpvc/?username=Unknown-San)
+![Profile View Count](https://komarev.com/ghpvc/?username=L-LawlieT-T)
 
 ## <i>You Can Find Me At</i>
 <a href="https://open.spotify.com/user/d6vpy8nwsduj2a9dlkcq4epvt"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
@@ -42,9 +45,9 @@
 
 ## Stats
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Unknown-san&show_icons=true&theme=radical)](https://github.com/Unknown-san)
+[![github stats](https://github-readme-stats.vercel.app/api?username=L-LawlieT-T&show_icons=true&theme=radical)](https://github.com/L-LawlieT-T)
 
 <h2>🎧 Now Vibing On 🎧</h2>
 
-<a href="https://open.spotify.com/user/d6vpy8nwsduj2a9dlkcq4epvt"><img src="https://spotify-readme-silk-seven.vercel.app/api/spotify" alt="wrench's current Playing" width="90%" align="center" /></a>
+<a href="https://open.spotify.com/user/x994l591444t0r18u1epaesbr"><img src="https://spotify-readme-silk-seven.vercel.app/api/spotify" alt="wrench's current Playing" width="90%" align="center" /></a>
 
