@@ -20,20 +20,20 @@
  ## Programming Languages I've Learned :
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-f34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## Languages I'm Trying To learn:
 
 ![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-![HTML](https://img.shields.io/badge/HTML5-f34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 
 ![Profile View Count](https://komarev.com/ghpvc/?username=Unknown-San)
 
 ## <i>You Can Find Me At</i>
 <a href="https://open.spotify.com/user/d6vpy8nwsduj2a9dlkcq4epvt"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Unknown-San)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/L-LawlieT-T)
 [![Instagram](https://img.shields.io/badge/Instagram-E44dsada5F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.aaryan_.__)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xtheanonymous)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Unknown_Sama#6133)
