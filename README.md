@@ -12,7 +12,7 @@
 
   - Cuurently Residing in Bhubnewar, Odisha, India.
   
-  ![ ◥ᎪNᏦush™◤ ](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=blue-green)
+  ![ ◥ᎪNᏦush™◤ ](https://github-readme-stats.vercel.app/api/top-langs/?username=L-LawlieT-T&theme=blue-green)
   
 
  </i> 
